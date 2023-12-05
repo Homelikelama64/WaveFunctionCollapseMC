@@ -1,0 +1,11 @@
+name: BattleOfTheMaze
+version: '${project.version}'
+main: me.squirrelify.bm.BattleOfTheMaze
+api-version: 1.20
+libraries:
+  - "org.jetbrains.kotlin:kotlin-stdlib:1.9.10"
+commands:
+#   Jump:
+#    description: Launches the Player
+    wfc:
+      description: WFC

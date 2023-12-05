@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bm:jar">
+    <output-path>G:/servers/paper/plugins</output-path>
+    <root id="archive" name="bm.jar">
+      <element id="module-output" name="bm" />
+    </root>
+  </artifact>
+</component>
